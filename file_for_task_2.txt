@@ -1,0 +1,4 @@
+This is file for task №2.
+Program should counts number of strings and number of words in each string.
+Let's try
+You're welcome
